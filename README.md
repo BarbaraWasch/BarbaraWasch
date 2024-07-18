@@ -2,9 +2,6 @@
 
 <div>
   <a href="https://github.com/BarbaraWasch">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraWasch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="BarbaraWasch GitHub stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraWasch&layout=compact&langs_count=16&theme=dracula" alt="Top Langs"/>
-  </a>
 </div>
 <div style="display: inline_block"><br>
   <img aling="center" alt="BarbPyhton" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
