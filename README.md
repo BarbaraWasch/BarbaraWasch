@@ -7,9 +7,11 @@
   <img aling="center" alt="BarbPyhton" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img aling="center" alt="BarbBash" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   <img aling="center" alt="BarbPowershell" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-  <img aling="center" alt="BarbSQL" heigth"30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img aling="center" alt="BarbAnsible" heigth"30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-  <img aling="center" alt="BarbDocker" heigth"30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img aling="center" alt="BarbLinux" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img aling="center" alt="BarbSQL" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img aling="center" alt="BarbAnsible" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
+  <img aling="center" alt="BarbDocker" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
+  
   <img align="right" alt="BarbGif" heigth"100" width="100" src="https://i.picasion.com/pic92/84594bafe3fc84783df81c6860c9cf63.gif"/>
 </div>
 
