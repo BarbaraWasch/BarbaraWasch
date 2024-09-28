@@ -5,12 +5,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img aling="center" alt="BarbPyhton" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img aling="center" alt="BarbJava" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img aling="center" alt="BarbBash" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
   <img aling="center" alt="BarbPowershell" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-  <img aling="center" alt="BarbHtml" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img aling="center" alt="BarbCss" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img aling="center" alt="BarbJavaScript" heigth"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img aling="center" alt="BarbSQL" heigth"30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img aling="center" alt="BarbAnsible" heigth"30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+  <img aling="center" alt="BarbDocker" heigth"30" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="right" alt="BarbGif" heigth"100" width="100" src="https://i.picasion.com/pic92/84594bafe3fc84783df81c6860c9cf63.gif"/>
 </div>
 
