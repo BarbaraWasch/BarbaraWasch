@@ -14,12 +14,6 @@
   <img align="center" alt="BarbDocker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
   <img align="right" alt="BarbGif" height="100" width="100" src="https://i.picasion.com/pic92/84594bafe3fc84783df81c6860c9cf63.gif"/>
 </div>
-
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="barbara-wasch-8716241a2" data-version="v1">
-  <a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/barbara-wasch-8716241a2?trk=profile-badge">Barbara Wasch</a>
-</div>
-
 ##
 
 <div> 
