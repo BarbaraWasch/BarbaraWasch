@@ -17,6 +17,7 @@ root@root:~$ chmod +x default.sh
 root@root:~$ ./default.sh 
 
 root@root:~$ cat tools.txt
+
 ![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square&logo=nmap&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-3949AB?style=flat-square&logo=spiderfoot&logoColor=white) 
