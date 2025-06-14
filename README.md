@@ -19,9 +19,10 @@ root@root:~$ chmod +x default.sh
 root@root:~$ ./default.sh  
 </code></pre>
 
-root@root:~$ cat likedinprofile.dll
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="barbarawasch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/barbarawasch?trk=profile-badge"/a></div>
-              
+root@root:~$ cat /etc/shadow/linkedindump.hash
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="barbarawasch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/barbarawasch?trk=profile-badge">Barbara Wasch</a></div>
+
 
 root@root:~$ cat tools.txt
 
