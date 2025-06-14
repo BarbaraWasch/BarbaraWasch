@@ -20,7 +20,8 @@ root@root:~$ ./default.sh
 </code></pre>
 
 root@root:~$ cat /etc/shadow/linkedindump.hash
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Barbara%20Wasch-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/barbarawasch)
+[![LinkedIn](linkedin.png)](https://linkedin.com/in/barbarawasch)
+
 
 
 root@root:~$ cat tools.txt
