@@ -28,5 +28,5 @@ root@root:~$ cat tools.txt
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) 
 
 root@root:~$ cat tryhack.png
-<img src="https://tryhackme-badges.s3.amazonaws.com/Sra.default.png" alt="Your Image Badge" />
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sra.default.png" alt="Your Image Badge" />
