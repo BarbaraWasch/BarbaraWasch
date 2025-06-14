@@ -1,20 +1,22 @@
+<pre><code>
 root@root:~$ nano default.sh  
 
 @echo off
- set user= Sra.default
- set name= Barbara Wasch
- set area= Cybersecurity
- set tags= Coffee, Paranoid, Vigilance, Hacker, Protection.  
- 
- echo user: %user%
- echo name: %nome%
- echo area: %area%
- echo tags: %tags%
- 
+set user= Sra.default
+set name= Barbara Wasch
+set area= Cybersecurity
+set tags= Coffee, Paranoid, Vigilance, Hacker, Protection.
+
+echo user: %user%
+echo name: %nome%
+echo area: %area%
+echo tags: %tags%
+
 pause
 
 root@root:~$ chmod +x default.sh  
-root@root:~$ ./default.sh 
+root@root:~$ ./default.sh  
+</code></pre>
 
 root@root:~$ cat tools.txt
 
