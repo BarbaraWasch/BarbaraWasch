@@ -1,23 +1,32 @@
-## Olá! Eu sou a Barbara Wasch
+root@root:~$ nano default.sh  
 
-<div>
-  <a href="https://github.com/BarbaraWasch">GitHub</a>
-</div>
+@echo off
+ set user= Sra.default
+ set name= Barbara Wasch
+ set area= Cybersecurity
+ set tags= Coffee, Paranoid, Vigilance, Hacker, Protection.  
+ 
+ echo user: %user%
+ echo name: %nome%
+ echo area: %area%
+ echo tags: %tags%
+ 
+pause
 
-<div style="display: inline-block;"><br>
-  <img align="center" alt="BarbPython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" alt="BarbBash" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-  <img align="center" alt="BarbPowershell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-  <img align="center" alt="BarbLinux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align="center" alt="BarbSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="BarbAnsible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" />
-  <img align="center" alt="BarbDocker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" />
-  <img align="right" alt="BarbGif" height="100" width="100" src="https://i.picasion.com/pic92/84594bafe3fc84783df81c6860c9cf63.gif"/>
-</div>
-##
+root@root:~$ chmod +x default.sh  
+root@root:~$ ./default.sh 
 
-<div> 
-  <a href = "mailto:barbiwasch@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com//in/barbara-wasch-8716241a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/1006720319567974511" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-</div>
+root@root:~$ cat tools.txt
+![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square&logo=nmap&logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
+![SpiderFoot](https://img.shields.io/badge/SpiderFoot-3949AB?style=flat-square&logo=spiderfoot&logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logo=burp-suite&logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-1F93FF?style=flat-square&logo=metasploit&logoColor=white) 
+![Wazuh](https://img.shields.io/badge/Wazuh-0277BD?style=flat-square&logo=wazuh&logoColor=white) 
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) 
+
+root@root:~$ cat tryhack.png
+<img src="https://tryhackme-badges.s3.amazonaws.com/Sra.default.png" alt="Your Image Badge" />
+
