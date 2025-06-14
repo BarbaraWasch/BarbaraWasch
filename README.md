@@ -19,11 +19,6 @@ root@root:~$ chmod +x default.sh
 root@root:~$ ./default.sh  
 </code></pre>
 
-root@root:~$ cat /etc/shadow/linkedindump.hash
-
-[![LinkedIn](linkedin.png)](https://linkedin.com/in/barbarawasch)
-
-
 
 root@root:~$ cat tools.txt
 
