@@ -20,7 +20,7 @@ root@root:~$ ./default.sh
 </code></pre>
 
 root@root:~$ cat likedinprofile.dll
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="barbarawasch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/barbarawasch?trk=profile-badge">Barbara Wasch</a></div>
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="barbarawasch" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/barbarawasch?trk=profile-badge">Barbara Wasch</a></div>
               
 
 root@root:~$ cat tools.txt
