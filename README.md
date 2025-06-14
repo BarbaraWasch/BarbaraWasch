@@ -1,3 +1,4 @@
+## Barbara Wasch
 <pre><code>
 root@root:~$ nano default.sh  
 
@@ -17,9 +18,9 @@ pause
 root@root:~$ chmod +x default.sh  
 root@root:~$ ./default.sh  
 </code></pre>
-
+</code></pre>
 root@root:~$ cat tools.txt
-
+</code></pre>
 ![Nmap](https://img.shields.io/badge/Nmap-005571?style=flat-square&logo=nmap&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) 
 ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-3949AB?style=flat-square&logo=spiderfoot&logoColor=white) 
@@ -29,7 +30,7 @@ root@root:~$ cat tools.txt
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white) 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white) 
-
+</code></pre>
 root@root:~$ cat tryhack.png
-
+</code></pre>
 <img src="https://tryhackme-badges.s3.amazonaws.com/Sra.default.png" alt="Your Image Badge" />
